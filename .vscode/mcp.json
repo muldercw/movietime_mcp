@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "movietime-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory", "${workspaceFolder}",
+        "movietime-mcp"
+      ]
+    }
+  }
+}
